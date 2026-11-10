@@ -1,0 +1,44 @@
+=== ENGLISH (for Whop listing) ===
+
+Every delivery comes with the receipt.
+
+Agent: [what it produced]
+Me: [what I changed]
+Why: [one-line reason]
+
+You see the work. Not the claim.
+
+---
+
+Founding 5 — Authority Engine
+
+First five clients receive:
+• Full human-diff receipts on every deliverable
+• Public case study of their build (name optional)
+• Lifetime priority revisions
+• Direct input on the next version of the system
+
+Founding rate locked. After five, public documentation closes.
+
+
+=== NEDERLANDS (voor Whop listing) ===
+
+Elke levering komt met de receipt.
+
+Agent: [wat hij produceerde]
+Ik: [wat ik veranderde]
+Waarom: [reden in één zin]
+
+Je ziet het werk. Niet de claim.
+
+---
+
+Founding 5 — Authority Engine
+
+De eerste vijf klanten krijgen:
+• Volledige human-diff receipts bij elk deliverable
+• Publieke case study van hun build (naam optioneel)
+• Lifetime priority revisions
+• Directe input op de volgende versie van het systeem
+
+Founding-prijs vast. Na vijf is de publieke documentatie-deur dicht.
